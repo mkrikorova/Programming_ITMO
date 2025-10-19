@@ -1,0 +1,12 @@
+[submodule "Lab3"]
+	path = Lab3
+	url = https://github.com/mkrikorova/Prog_Lab3.git
+[submodule "Lab5"]
+	path = Lab5
+	url = https://github.com/mkrikorova/Prog_Lab5.git
+[submodule "Lab6"]
+	path = Lab6
+	url = https://github.com/mkrikorova/Prog_Lab6.git
+[submodule "Lab7"]
+	path = Lab7
+	url = https://github.com/mkrikorova/Prog_Lab7.git
